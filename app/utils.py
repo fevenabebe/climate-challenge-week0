@@ -5,7 +5,7 @@ countries = ["ethiopia", "sudan", "tanzania", "nigeria", "kenya"]
 def load_data():
     dfs = []
     for c in countries:
-        df = pd.read_csv(f"data/{c}_clean.csv")
+        df = pd.read_csv(f"../data/{c}_clean.csv")
         df["Country"] = c.capitalize()
         dfs.append(df)
     return pd.concat(dfs, ignore_index=True)
