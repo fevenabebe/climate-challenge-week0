@@ -1,8 +1,7 @@
 import streamlit as st
 import pandas as pd
 import plotly.express as px
-from app.utils import load_data, filter_data
-
+from utils import load_data, filter_data
 # -----------------------------
 # PAGE CONFIG
 # -----------------------------
