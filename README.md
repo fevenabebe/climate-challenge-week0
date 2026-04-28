@@ -5,7 +5,7 @@ An interactive Streamlit dashboard that analyzes and compares climate indicators
 ---
 
 ## 🚀 Live Demo
-👉 [Streamlit App](https://your-streamlit-app-link-here)
+👉 [Streamlit App](https://climate-challenge-week0-qdtvh53dmrjbyuonbs2in6.streamlit.app/)
 
 ---
 
